@@ -57,4 +57,4 @@ O projeto conta com persistência de dados local, tema claro/escuro dinâmico, a
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/flutter_cep.git](https://github.com/SEU_USUARIO/flutter_cep.git)
+   git clone 
