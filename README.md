@@ -24,7 +24,7 @@ O projeto conta com persistência de dados local, tema claro/escuro dinâmico, a
 
 | 4. Cadastro CEP | 5. Registros | 6. Home com Registros |
 | :---: | :---: | :---: |
-| ![Cadastro](assets/fotos/modal_claro.png) | [!Registros](assets/fotos/registros_claro.png) | ![Home com Registro](assets/fotos/homecom_claro.png) |
+| ![Cadastro](assets/fotos/modal_claro.png) | ![Registros](assets/fotos/registros_claro.png) | ![Home com Registro](assets/fotos/homecom_claro.png) |
 
 ---
 
