@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'style/theme.dart';
 import 'ui/splash.dart';
 
-// Notificador global para alternar o tema em tempo real
 final ValueNotifier<ThemeMode> themeNotifier = ValueNotifier(ThemeMode.light);
 
 void main() {
